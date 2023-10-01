@@ -26,7 +26,7 @@
 
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/
+[linkedin]: https://www.linkedin.com/in/%D0%BA%D0%B0%D0%BC%D1%80%D0%B0%D0%BD-%D0%BC%D0%BE%D1%85%D0%B0%D0%BC%D0%BC%D0%B0%D0%B4%D0%B8-552279294/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
